@@ -1,5 +1,4 @@
 c-echo-count
-c-echo
 test
 
 CMakeCache.txt
@@ -9,3 +8,4 @@ Makefile
 
 lib
 a.out
+c-echo
