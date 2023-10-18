@@ -4,8 +4,6 @@ test
 CMakeCache.txt
 CMakeFiles/
 cmake_install.cmake
+
 Makefile
 
-lib
-a.out
-c-echo
